@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-// [START apps_script_execute]
+// [START apps_script_api_execute]
 // Calls an Apps Script function to list the folders in the user's
 // root Drive folder.
 - (void)callAppsScript {
@@ -83,4 +83,4 @@
         [self showAlert:@"Error" message:message];
     }
 }
-// [END apps_script_execute]
+// [END apps_script_api_execute]
