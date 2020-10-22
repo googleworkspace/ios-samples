@@ -1,6 +1,6 @@
-# G Suite iOS Samples
+# Google Workspace iOS Samples
 
-iOS samples for [G Suite API](https://developers.google.com/gsuite/) docs.
+iOS samples for [Google Workspace APIs](https://developers.google.com/gsuite/) docs.
 
 ## APIs
 
