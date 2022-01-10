@@ -2,6 +2,10 @@
 
 iOS samples for [Google Workspace APIs](https://developers.google.com/gsuite/) docs.
 
+## Note: Deprecated/archived
+
+The sample code is this repository is no longer maintained and is likely outdated.
+
 ## APIs
 
 ## Requirements
